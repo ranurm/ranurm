@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Rami 👋
+
+🎓 *Master of Technology in Software*, graduating in December 2025  
+💻 Interests: Software Development, 5G
+
+🔭 **Master Thesis**: I am currently working at Nokia on 5G slicing technology and researching its impact on IoT devices in the future.  
+📘 **Bachelor's Thesis**: *"Ownership-based and Subscription-based Licensing"* – Exploring ownership and subscription-based software licensing models.
 
 <!--
 **ranurm/ranurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
