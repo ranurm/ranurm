@@ -56,8 +56,7 @@
 
 ## 📫 Contact:
 
-- **Email**: ranurm@email.com
-- **LinkedIn**: [linkedin.com/in/ranurm](https://www.linkedin.com/in/ranurm)
+- **LinkedIn**: [linkedin.com/in/ranurm](https://www.linkedin.com/in/rami-nurmoranta-ab9325206/)
 - **GitHub**: [github.com/ranurm](https://github.com/ranurm)
 <!--
 **ranurm/ranurm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
