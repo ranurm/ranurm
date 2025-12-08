@@ -1,29 +1,34 @@
 ## Hi, I'm Rami 👋
 
-🎓 *Master of Technology in Software*, graduating in December 2025  
-💻 Interests: Software Development, 5G
-🧠 3 years of coding experience and over 1 year of professional experience in the IT field
+🎓 *Master of Technology in Software*, graduating in January 2026  
+💻 Interests: Software Development, AI development, 5G
+🧠 4 years of coding/AI experience and 2 year of professional experience in the field
 
-🔭 **Master Thesis**: I am currently working at Nokia on 5G slicing technology and researching its impact on IoT devices.  
-📘 **Bachelor's Thesis**: *"Ownership-based and Subscription-based Licensing"* – Exploring ownership and subscription-based software licensing models.
+**Current Role**: Responsible for architectural design and development of a multi-agent system in 5G. The goal is to create new business with AI, not just improve existing processes.
+
+🔭 **Master Thesis**: *"Network slicing from a software perspective"*  
+📘 **Bachelor's Thesis**: *"Ownership-based and Subscription-based Licensing"*
 
 ---
+
+## Strenghts
+
+- **Fast learning**: In my 4th year of studies and soon graduating, I’ve already taken responsibility for the architecture and development of the new agentic system at Nokia. Even the CEO of Nokia has recognized the project and shown strong support.
+- **Enthusiasm**: Outside of studies and work, I’m building a fully automated algorithmic trading application.
+- **International cooperation**: In the Nokia project, I’ve collaborated with Amazon AI agent team and global customers to develop an agentic system capable of managing 5G slicing.
+
 
 ## 🔧 Skills:
 
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript, Java, TypeScript, MATLAB
-- **Tools**: Docker, Git, CI/CD, VS Code, PyCharm, MATLAB, NetBeans, Unity
-- **AI Technologies**: OpenAI, Training Small Language Models (SLMs) Locally
+- **Tools**: Amazon Bedrock, Docker, Git, CI/CD, VS Code, PyCharm, MATLAB, NetBeans, Unity
+- **AI Technologies**: Strands Agents SDK (multi agentic systems), Training Small Language Models (SLMs) Locally, finetuning SLMs/LLMs, deeplearning, many courses on ML/AI in University 
 - **Networking Technologies**: 5G, IoT, Network Slicing
+
 
 ---
 
 ## 🚀 Projects & Portfolio:
-
-- **[CV Maker Extension](https://github.com/Pareto-Software/cv-maker-extension)** – Extension to Pareto's internal CV Maker tool.
-  - Takes employees CV as PDF. Then parses it with openai and imports necessary information to CV Maker profile.
-  - ChatGPT addition to ask questions about employees allocation and skills. For example, who is the best match to project?
-  - *Role*: Project Manager
  
 - **[Secure Password Manager](https://github.com/ranurm/secure-password-manager)** – A secure credential manager built with Next.js (web) and React Native (mobile). Implements:
   - End-to-end encryption
@@ -51,6 +56,11 @@
   - Redirected Walking Module with translation, curvature, rotation, and bending gains
   - Firebase backend for data logging and experiment tracking
   - Built and tested on Meta Quest 2/3
+ 
+- **[CV Maker Extension](https://github.com/Pareto-Software/cv-maker-extension)** – Extension to Pareto's internal CV Maker tool.
+  - Takes employees CV as PDF. Then parses it with openai and imports necessary information to CV Maker profile.
+  - ChatGPT addition to ask questions about employees allocation and skills. For example, who is the best match to project?
+  - *Role*: Project Manager
  
 ---
 
