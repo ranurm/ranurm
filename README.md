@@ -30,7 +30,7 @@
 
 ## 🚀 Projects & Portfolio:
  
-- **[Secure Password Manager](https://github.com/ranurm/secure-password-manager)** – A secure credential manager built with Next.js (web) and React Native (mobile). Implements:
+- **[Secure Password Manager](https://github.com/ranurm/password-manager)** – A secure credential manager built with Next.js (web) and React Native (mobile). Implements:
   - End-to-end encryption
   - Selfmade two-factor authentication app
   - Secure API with JWT
